@@ -1,0 +1,50 @@
+[90m= [39m[
+    {#7464
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mcache[39m[32m"[39m,
+    },
+    {#7465
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mcache_locks[39m[32m"[39m,
+    },
+    {#7466
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mdepartments[39m[32m"[39m,
+    },
+    {#7461
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mfaculties[39m[32m"[39m,
+    },
+    {#7437
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mid_cards[39m[32m"[39m,
+    },
+    {#7460
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mid_templates[39m[32m"[39m,
+    },
+    {#7459
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mlogs[39m[32m"[39m,
+    },
+    {#7458
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mmigrations[39m[32m"[39m,
+    },
+    {#7457
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mnotifications[39m[32m"[39m,
+    },
+    {#7485
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mpersonal_access_tokens[39m[32m"[39m,
+    },
+    {#7486
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mphotos[39m[32m"[39m,
+    },
+    {#7487
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mprograms[39m[32m"[39m,
+    },
+    {#7488
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32msessions[39m[32m"[39m,
+    },
+    {#7489
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32mstudents[39m[32m"[39m,
+    },
+    {#7490
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32msystem_settings[39m[32m"[39m,
+    },
+    {#7491
+      +"[1mTables_in_student_id_system[22m": [32m"[39m[32musers[39m[32m"[39m,
+    },
+  ]
